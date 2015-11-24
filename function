@@ -1,0 +1,9 @@
+#!/bin/sh
+function fn3
+{
+echo "My first Unix function"
+}
+function fn2
+{
+echo "Second function"
+}
