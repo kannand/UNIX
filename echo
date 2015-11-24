@@ -1,0 +1,4 @@
+#!.bin/sh
+msg1=Hello
+msg2=there!
+echo $msg1 $msg2
